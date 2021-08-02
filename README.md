@@ -8,22 +8,19 @@ Hi, I'm Jean Carlos (And I use jee4nc and zeeeta_ as my nicknames), a Full Stack
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in personal projects;
-- 🌱 I’m currently learning Django and ReactJS; 
-- 🤔 I’m looking for help with Machinne Learning 😭;
+- 👨🏽‍💻 I’m currently working in Tejesoft SPA;
+- 🌱 I’m currently learning Odoo and ExpressJS; 
 - 🐧 I'm love and use Linux and Open Source;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Using the Manjaro distribution to program;
+- ⚡️ Fun-Fact: Using the PopOS! Linux distribution to program;
 
 **Languages and Tools:**  
 
 ``` 
 JeanSkills = [
-  "JavaScript" : ["ReactJS","Angular","NodeJS",
-                  "TypeScript","ExpressJS"],
   "Python" : ["Flask","Django","Odoo"],
+  "JavaScript" : ["NodeJS","TypeScript","ExpressJS"],
   "DataBases" : ["MySQL","Oracle","MongoDB","PostgreSQL"],
-  "Go" : "In Progess",
   "Linux": "Hell yeah!"]
 ``` 
 
