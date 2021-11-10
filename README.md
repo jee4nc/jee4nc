@@ -8,7 +8,7 @@ Hi, I'm Jean Carlos (And I use jee4nc and zeeeta_ as my nicknames), a Full Stack
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in Tejesoft SPA;
+- 👨🏽‍💻 I’m currently working in MegaTime;
 - 🌱 I’m currently learning Odoo and ExpressJS; 
 - 🐧 I'm love and use Linux and Open Source;
 - 💬 Ask me about anything, I am happy to help;
