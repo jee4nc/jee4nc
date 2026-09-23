@@ -4,7 +4,7 @@ Software developer from Chile.
 
 - **Day job:** building corporate web applications for a large retail
   company, mostly on the JavaScript / TypeScript stack.
-- **Tech lead** at domoAI.
+- **Tech lead** at [Domo IA](https://domo-ia.com/).
 - **Consulting:** available for software consulting engagements.
 - **On the side:** native macOS apps in Swift and small, fast command-line
   tools in Go — software that feels at home on the machine it runs on.
