@@ -1,8 +1,13 @@
 ### Jean Carlos · jee4nc
 
-Software developer from Chile. I build native macOS apps in Swift and small,
-fast command-line tools in Go — software that feels at home on the machine
-it runs on.
+Software developer from Chile.
+
+- **Day job:** building corporate web applications for a large retail
+  company, mostly on the JavaScript / TypeScript stack.
+- **Tech lead** at domoAI.
+- **Consulting:** available for software consulting engagements.
+- **On the side:** native macOS apps in Swift and small, fast command-line
+  tools in Go — software that feels at home on the machine it runs on.
 
 **Now:** building [Mariner](https://marinerhttp.dev), a native macOS client
 for HTTP APIs. SwiftUI + SwiftData, no Electron.
@@ -17,6 +22,6 @@ for HTTP APIs. SwiftUI + SwiftData, no Electron.
 
 #### Stack
 
-Swift · SwiftUI · Go · TypeScript · Python · PostgreSQL · Linux
+JavaScript · TypeScript · Node.js · Swift · SwiftUI · Go · Python · PostgreSQL · Linux
 
 [marinerhttp.dev](https://marinerhttp.dev) · [LinkedIn](https://www.linkedin.com/in/jean-carlos-aldea-311852164/)
