@@ -7,10 +7,6 @@ it runs on.
 **Now:** building [Mariner](https://marinerhttp.dev), a native macOS client
 for HTTP APIs. SwiftUI + SwiftData, no Electron.
 
-```sh
-brew install --cask jee4nc/tap/mariner
-```
-
 #### Things I've made
 
 | | |
@@ -18,7 +14,6 @@ brew install --cask jee4nc/tap/mariner
 | [**Mariner**](https://marinerhttp.dev) | Native macOS client for testing HTTP APIs, an alternative to Postman and Bruno. |
 | [**taghound**](https://github.com/jee4nc/taghound) | Go CLI that tracks release branches and semver tags across repositories. Zero dependencies. |
 | [**packwatch**](https://github.com/jee4nc/packwatch) | Interactive CLI that finds outdated and vulnerable npm packages, aware of your Node version. |
-| [**Keyper**](https://github.com/jee4nc/Keyper) | Mac app that keeps your encryption keys in one place. |
 
 #### Stack
 
