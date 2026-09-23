@@ -22,6 +22,6 @@ for HTTP APIs. SwiftUI + SwiftData, no Electron.
 
 #### Stack
 
-JavaScript · TypeScript · Node.js · Swift · SwiftUI · Go · Python · PostgreSQL · Linux
+JavaScript · TypeScript · React · Next.js · Node.js · Swift · SwiftUI · Go · Python · PostgreSQL · Linux
 
 [marinerhttp.dev](https://marinerhttp.dev) · [LinkedIn](https://www.linkedin.com/in/jean-carlos-aldea-311852164/)
