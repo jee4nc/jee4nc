@@ -1,30 +1,27 @@
-### Hey 👋🏽, I'm Jee4nc!
+### Jean Carlos · jee4nc
 
-&nbsp;
+Software developer from Chile. I build native macOS apps in Swift and small,
+fast command-line tools in Go — software that feels at home on the machine
+it runs on.
 
-Hi, I'm Jean Carlos (And I use jee4nc as my nickname), a Full Stack Developer 🚀 from Chile 🇨🇱, currently, I'm a working in Ripley Chile 🙍🏽‍♂️ , Freelancer 👨🏽‍💻 , I enjoy eating food and traveling and play videogame jeje.
+**Now:** building [Mariner](https://marinerhttp.dev), a native macOS client
+for HTTP APIs. SwiftUI + SwiftData, no Electron.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
+```sh
+brew install --cask jee4nc/tap/mariner
+```
 
-- 👨🏽‍💻 I’m currently working in Ripley Chile;
-- 🌱 I’m currently learning Rust and Testing; 
-- 🐧 I'm love and use Linux and Open Source;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Svelte rules!;
+#### Things I've made
 
-**Languages and Tools:**  
+| | |
+|---|---|
+| [**Mariner**](https://marinerhttp.dev) | Native macOS client for testing HTTP APIs, an alternative to Postman and Bruno. |
+| [**taghound**](https://github.com/jee4nc/taghound) | Go CLI that tracks release branches and semver tags across repositories. Zero dependencies. |
+| [**packwatch**](https://github.com/jee4nc/packwatch) | Interactive CLI that finds outdated and vulnerable npm packages, aware of your Node version. |
+| [**Keyper**](https://github.com/jee4nc/Keyper) | Mac app that keeps your encryption keys in one place. |
 
-``` 
-JeanSkills = [
-  "Python" : ["Flask","Pytest","Odoo"],
-  "JavaScript" : ["NodeJS","TypeScript","ExpressJS"],
-  "DataBases" : ["MySQL","Oracle","MongoDB","PostgreSQL"],
-  "Linux": "Hell yeah!"]
-``` 
+#### Stack
 
+Swift · SwiftUI · Go · TypeScript · Python · PostgreSQL · Linux
 
-
-![Jean github stats](https://github-readme-stats.vercel.app/api?username=jee4nc&show_icons=true&hide_border=true)
-
+[marinerhttp.dev](https://marinerhttp.dev) · [LinkedIn](https://www.linkedin.com/in/jean-carlos-aldea-311852164/)
