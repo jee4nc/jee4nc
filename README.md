@@ -24,4 +24,4 @@ for HTTP APIs. SwiftUI + SwiftData, no Electron.
 
 JavaScript · TypeScript · React · Next.js · Node.js · Swift · SwiftUI · Go · Python · PostgreSQL · Linux
 
-[marinerhttp.dev](https://marinerhttp.dev) · [LinkedIn](https://www.linkedin.com/in/jean-carlos-aldea-311852164/)
+[jcaldea.dev](https://jcaldea.dev) · [Blog](https://jcaldea.dev/blog) · [marinerhttp.dev](https://marinerhttp.dev) · [LinkedIn](https://www.linkedin.com/in/jean-carlos-aldea-311852164/)
