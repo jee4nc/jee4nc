@@ -19,6 +19,7 @@ for HTTP APIs. SwiftUI + SwiftData, no Electron.
 | [**Mariner**](https://marinerhttp.dev) | Native macOS client for testing HTTP APIs, an alternative to Postman and Bruno. |
 | [**taghound**](https://github.com/jee4nc/taghound) | Go CLI that tracks release branches and semver tags across repositories. Zero dependencies. |
 | [**packwatch**](https://github.com/jee4nc/packwatch) | Interactive CLI that finds outdated and vulnerable npm packages, aware of your Node version. |
+| [**Arcadia Poker**](https://arcadia-poker.pages.dev/) | Real-time planning poker for agile teams. React + Supabase on Cloudflare Pages. |
 
 #### Stack
 
